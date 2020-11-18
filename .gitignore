@@ -195,6 +195,7 @@ target/
 #####=== VisualStudioCode ===#####
 .settings
 .vscode
+.vscode/
 
 #### joe made this: http://goel.io/joe
 
